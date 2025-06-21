@@ -30,6 +30,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavish-98&show_icons=true&locale=en&layout=compact" alt="kavish-98" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavish-98&show_icons=true&locale=en" alt="kavish-98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavish-98&" alt="kavish-98"/></p>
 
 
 
